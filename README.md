@@ -7,7 +7,7 @@
 If this project has helped you out, please support us with a star :star2:.
 
 This is a high performance listview for React Native and Web with support for complex layouts. JS only with no native dependencies, inspired by both RecyclerView on Android
-and UICollectionView on iOS.
+and UICollectionViehahahaw on iOS.
 
 `npm install --save recyclerlistview`
 
